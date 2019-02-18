@@ -10,7 +10,7 @@ teste silas
 ## Ferramentas
 
 * [Github Destkop](https://desktop.github.com/)
-* [Netbeans] (https://netbeans.org/)
+* [Netbeans](https://netbeans.org/)
 
 ## Softwares Similares
 
